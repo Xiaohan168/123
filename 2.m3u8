@@ -257,7 +257,7 @@ filterable: 1,
     "name":"❤聚优直播",
     "type": 3,
     "api": "csp_xBPQ",
-"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/Xiaohan168/123/blob/main/juyou.json","jar":"http://52bsj.vip:81/api/v3/file/get/61543/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar?sign=BTFlwsHLsd9ID93zVjRQSvbbhRn8g4_KtO-cGrGthRI%3D%3A0"},
+"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hjf521/tvbox/raw/master/juyou.json","jar":"http://52bsj.vip:81/api/v3/file/get/61543/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar?sign=BTFlwsHLsd9ID93zVjRQSvbbhRn8g4_KtO-cGrGthRI%3D%3A0"},
 {key:'❤91麻豆',name:'❤91麻豆源',type:1,api:'https://91md.me/api.php/provide/vod/',searchable:0,quickSearch:0},
 {key:"❤富二代资源", "name":"❤富二代资源", "type": 0, "api": "http://f2dcj6.com/sapi?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
 {key:"❤字幕网资源", "name":"❤字幕网资源", "type": 0, "api": "http://zmcj88.com/sapi?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
@@ -333,7 +333,7 @@ filterable: 1,
       "type": 3,
       "api": "csp_Eighteen",
       "searchable": 1,
-      "filterable": 1,"jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/118.jar"
+      "filterable": 1,"jar":"https://gitee.com/hjf521/tvbox/raw/master/0902.jar"
     },
 		{
             "key" : "drpy_js_banan",
