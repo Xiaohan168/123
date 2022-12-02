@@ -18,7 +18,7 @@
 {"host":"*", "rule":["oss-cn-m3u8", "myqcloud.com.zh188.net", "?url=", ".m3u8"]},
 {"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}
 ],
-lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2hqZjUyMC8wMDAvcmF3L2JyYW5jaC9tYXN0ZXIvODg4LnR4dA==']}]}],
+lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vWGlhb2hhbjE2OC8xMjMvbWFpbi84ODgudHh0']}]}],
 sites:[
 {"key":"小韩资源1",name:"🍎西夏资源", type:3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1，},
 {key:'小韩资源3',name:'🍎西夏资源',type:1,api:'https://kudian10.com/api.php/provide/vod/?ac=list', "playUrl":"https://jx.kujiexi.net/m3u8.php?url=",searchable:1,quickSearch:1,filterable:0},
@@ -257,7 +257,7 @@ filterable: 1,
     "name":"❤聚优直播",
     "type": 3,
     "api": "csp_xBPQ",
-"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/hjf520/000/raw/branch/master/juyou.json","jar":"http://52bsj.vip:81/api/v3/file/get/61543/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar?sign=BTFlwsHLsd9ID93zVjRQSvbbhRn8g4_KtO-cGrGthRI%3D%3A0"},
+"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Xiaohan168/123/main/juyou.json","jar":"http://52bsj.vip:81/api/v3/file/get/61543/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar?sign=BTFlwsHLsd9ID93zVjRQSvbbhRn8g4_KtO-cGrGthRI%3D%3A0"},
 {key:'❤91麻豆',name:'❤91麻豆源',type:1,api:'https://91md.me/api.php/provide/vod/',searchable:0,quickSearch:0},
 {key:"❤富二代资源", "name":"❤富二代资源", "type": 0, "api": "http://f2dcj6.com/sapi?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
 {key:"❤字幕网资源", "name":"❤字幕网资源", "type": 0, "api": "http://zmcj88.com/sapi?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
